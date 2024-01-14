@@ -19,7 +19,7 @@ lettresArray.forEach(lettre=>{
 
 const words={
     programing:["php","java","javascript","python","mysql","html","css","jquery","scala","laravel"],
-    people:["karim","meriem","farid","mohamed","ahmed","hajar","yas min","bouchra","mohcine","moussa"],
+    people:["karim","meriem","farid","mohamed","ahmed","hajar","yasmine","bouchra","mohcine","moussa"],
     countries:["morocco","algeria","spain","italy","russia","japan","ghana","brazil","canada","india"],
     movies:["dark","parasite","annabelle","saw","monster"],
 }
